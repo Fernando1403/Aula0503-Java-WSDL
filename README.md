@@ -1,0 +1,1 @@
+JAVA WSDL - Webservice SOAP
